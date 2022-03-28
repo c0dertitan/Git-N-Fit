@@ -1,2 +1,1 @@
-# Git-N-Fit
-The Git-N-Fit Files All Put Together!
+# Feel free to look at the code
